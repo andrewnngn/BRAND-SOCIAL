@@ -22,6 +22,12 @@ go mod download
 `SECRET`: Secret key for password hashing.
 `SUPER_EMAIL`: Superadmin email address.
 `SUPER_PASS`: Superadmin password.
+"EMAIL_FROM": mailtrap.io
+"SMTP_PASS": mailtrap.io
+"SMTP_USER": mailtrap.io
+"SMTP_HOST": mailtrap.io
+"SMTP_PORT": mailtrap.io
+""
 ```
 
 4. Run the API:
